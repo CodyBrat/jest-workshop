@@ -1,0 +1,17 @@
+{
+  "name": "jest-workshop",
+  "version": "1.0.0",
+  "description": "Standalone graded Jest workshop",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.3"
+  }
+}
